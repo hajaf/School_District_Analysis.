@@ -11,28 +11,14 @@ As seen below the first image is of the edited analysis and the image below that
 
 ![image](https://user-images.githubusercontent.com/103130997/168906453-88eb8b8d-3f31-4514-ba3a-4068eca91a2b.png)
 
- 
-
-
- 
 -How is the school summary affected?
 With the original being the first image and edited the second here we see that average scores are relatively the same but passing math/reading/Overall passing has significantly decreased by 25%-28%. 
-
-
  
 -How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
 When looking at the image above Thomas High School was in  second place  amongst other ranked schools before it was known that the 9th grade results were altered. Below the tail of the data is depicted where we can see that that Thomas High school has actually received the position of third from last or rather 13th place .
 ![image](https://user-images.githubusercontent.com/103130997/168907201-cd6932b6-5c07-4f00-996d-dc1eb01a2d0c.png)
 ![image](https://user-images.githubusercontent.com/103130997/168908584-fd98c095-abe6-4d07-b287-10a452e81ddc.png)
-		
- 
-
-
-
-
-
-
 
 -How does replacing the ninth-grade scores affect the following:
 
@@ -55,6 +41,8 @@ No changes observed
 	![image](https://user-images.githubusercontent.com/103130997/168910410-1e78c3d9-f27c-410d-a211-e50777735852.png)
  
 ##Summary:
-
-
-
+- With the district analysis summary the Overall passing fell by 1%
+-With school summary passing math/reading/Overall passing has significantly decreased by 25%-28%. 
+- All 9th grade test reluskts for Thomas High School are Nan
+- Thomas high School is now in 13th placewith in the schools rankings 
+- 
