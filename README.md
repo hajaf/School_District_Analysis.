@@ -1,9 +1,8 @@
 # School_District_Analysis.
 ## the purpose of this analysis.
-
-
 Maria needs analysis on charter as well as district schools scores to allocate funding Thomas schools scores have been tampered with
-##Results: 
+
+**##Results: 
 How is the district summary affected?
 As seen below the first image is of the edited analysis and the image below that one is the unedited analysis as can be observed each score testing score has been affected between 0.001 points to 0.01and has lowered  whole percentages with in passing math and over all passing
 
@@ -40,9 +39,9 @@ No changes observed
 	no diffrence observered
 	![image](https://user-images.githubusercontent.com/103130997/168910410-1e78c3d9-f27c-410d-a211-e50777735852.png)
  
-##Summary:
+**##Summary:
 - With the district analysis summary the Overall passing fell by 1%
--With school summary passing math/reading/Overall passing has significantly decreased by 25%-28%. 
+- With school summary passing math/reading/Overall passing has significantly decreased by 25%-28%. 
 - All 9th grade test reluskts for Thomas High School are Nan
 - Thomas high School is now in 13th placewith in the schools rankings 
 - 
